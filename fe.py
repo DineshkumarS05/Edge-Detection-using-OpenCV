@@ -95,4 +95,4 @@ if uploaded_file is not None:
 
 
 
-    st.image(result, caption="Result", use_column_width=True)
+
